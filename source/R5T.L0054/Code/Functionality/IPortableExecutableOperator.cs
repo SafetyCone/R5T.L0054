@@ -10,6 +10,9 @@ using R5T.T0132;
 
 namespace R5T.L0054
 {
+    /// <summary>
+    /// 
+    /// </summary>
     [FunctionalityMarker]
     public partial interface IPortableExecutableOperator : IFunctionalityMarker
     {
