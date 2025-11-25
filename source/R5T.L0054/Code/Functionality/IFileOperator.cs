@@ -7,7 +7,7 @@ namespace R5T.L0054
 {
     [FunctionalityMarker]
     public partial interface IFileOperator : IFunctionalityMarker,
-        L0053.IFileOperator
+        L0066.IFileOperator
     {
 
     }
